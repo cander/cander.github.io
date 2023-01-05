@@ -19,3 +19,5 @@ The Sixth International Python Conference
 with Yan Zhuang and Ken Goldberg 
 ASME Design Engineering Technical Conferences
 [PDF](anderson-zhuang-goldberg-detc97.pdf)
+
+*More to come*
