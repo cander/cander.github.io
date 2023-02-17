@@ -47,3 +47,11 @@ Software Engineering Radio, Episode 217, January 2015.
 
 [**Mitchell Hashimoto on the Vagrant Project**](http://www.se-radio.net/2014/07/episode-207-mitchell-hashimoto-on-the-vagrant-project/) -
 Software Engineering Radio, Episode 207, July 2014.
+
+### Books
+*Internetworking Beyond the LAN - 2006* - Editor. Published by O'Reilly Media, Inc.,
+ISBN 0-596-50030-0.
+
+### Google Scholar Page
+
+[**Charles Anderson**](https://scholar.google.com/citations?hl=en&user=DspmIqcAAAAJ)
