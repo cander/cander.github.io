@@ -52,6 +52,14 @@ Software Engineering Radio, Episode 207, July 2014.
 *Internetworking Beyond the LAN - 2006* - Editor. Published by O'Reilly Media, Inc.,
 ISBN 0-596-50030-0.
 
+### Other
+[**Pseudoflow Solvers for the Maximum Flow Problem**](solver-lit-prog.pdf) -
+a [Literate Program](http://www.literateprogramming.com/) of the pseudoflow
+algorithm implementation I did for my PhD research. The source code is
+available on GitHub at
+[https://github.com/cander/pseudoflow-solver](https://github.com/cander/pseudoflow-solver).
+
+
 ### Google Scholar Page
 
 [**Charles Anderson**](https://scholar.google.com/citations?hl=en&user=DspmIqcAAAAJ)
