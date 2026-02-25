@@ -53,8 +53,8 @@ Software Engineering Radio, Episode 207, July 2014.
 ISBN 0-596-50030-0.
 
 ### Other
-[**Implementations of the Pseudoflow Algorithm for the Maximum Flow Problem**](thesis.pdf)
-is a work-in-progress version of my PhD dissertation.
+[**Implementations of the Pseudoflow Algorithm for the Maximum Flow Problem**](dissertation-snapshot.pdf)
+is a snapshot of my PhD dissertation.
 
 [**Pseudoflow Solvers for the Maximum Flow Problem**](solver-lit-prog.pdf) -
 a [Literate Program](http://www.literateprogramming.com/) of the pseudoflow
