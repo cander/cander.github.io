@@ -16,4 +16,5 @@ Here is some more info about me:
 * [GitHub](https://github.com/cander)
 * [Presentations](http://www.slideshare.net/ws.cander/presentations)
 * [Publications](pubs/)
+* [Teaching](teaching.html)
 * [Old Blog](http://western-skies.blogspot.com/)
