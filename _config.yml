@@ -25,6 +25,9 @@ github_username:  cander
 # Build settings
 markdown: kramdown
 theme: minima
+# Minima throws complaints about Dart Sass
+sass:
+  quiet_deps: true
 plugins:
   - jekyll-feed
 
